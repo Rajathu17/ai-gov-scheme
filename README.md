@@ -110,50 +110,6 @@ This project is an AI-driven web application designed to streamline access to go
 
 *(Refer to the `migrations` folder and ER diagram for the full database schema.)*
 
----
-
-## Prompt for Functional Design & Software Requirements
-
-Use the following **prompt** to guide the creation of a **comprehensive functional design** and **software requirements document** for the project:
-
-> **Project Title**: AI-Powered Platform for Government Scheme Accessibility  
->  
-> **Objective**: Develop an end-to-end solution that streamlines government welfare scheme access. The platform must offer personalized scheme recommendations (ML), automated document verification (OCR), and a multilingual chatbot (NLP).  
->  
-> **Scope**:
-> 1. **User Management & Authentication**  
->    - Secure user registration, login, and profile management.  
->    - Role-based access (e.g., citizens, government officials).  
-> 2. **Scheme Discovery & Personalization**  
->    - Implement an interface for ML-driven scheme recommendations.  
->    - Provide filtering and search capabilities for various government programs.  
-> 3. **Automated Document Verification**  
->    - Integrate OCR to parse and verify uploaded documents.  
->    - Show real-time feedback on document status.  
-> 4. **Multilingual NLP Chatbot**  
->    - Offer real-time, conversational assistance in multiple languages.  
->    - Provide quick replies or guided flows for application processes.  
-> 5. **Application Tracking & Status Updates**  
->    - Let users track the status of submitted applications.  
->    - Send notifications or alerts on changes or approvals.  
->  
-> **Functional Requirements**:
-> - **Front-End**: Responsive design, intuitive UI, accessible components, multi-language support.  
-> - **Back-End**: API endpoints for user authentication, application data, document handling, and chatbot interactions.  
-> - **Database**: Store user profiles, scheme data, documents, and chat logs.  
-> - **Security**: JWT-based auth or Supabase auth, data validation, error handling.  
-> - **Testing & Deployment**: Automated tests (unit/integration), continuous integration, staging environment.  
->  
-> **Deliverables**:
-> - A detailed functional design document (user flows, wireframes, mockups).  
-> - A software requirements specification (SRS) detailing each feature, user story, and acceptance criteria.  
-> - Implementation guidelines for future integration of advanced ML models and OCR.  
-> - A plan for chatbot expansion with NLP frameworks or APIs.  
-
-Following this prompt will ensure the project’s **functional design** and **software requirements** are clearly defined, facilitating smooth development and future enhancements.
-
----
-
 ## Contributing
 
 1. **Fork the Repository**  
