@@ -22,12 +22,12 @@ This project is an AI-driven web application designed to streamline access to go
 
 ## Live Demo
 
-Check out the live deployed version of Landing page:
+Check out the live deployed version of the AI-Powered Platform for Government Scheme Accessibility :
 
-[Deployed Link](https://darling-creponne.netlify.app/)
 
-Features:
-[Deployed Link](https://neon-sable-a0fbd5.netlify.app/)
+[Landing Link](https://darling-creponne.netlify.app/)
+
+[Login Page and App](https://neon-sable-a0fbd5.netlify.app/)
 
 
 
