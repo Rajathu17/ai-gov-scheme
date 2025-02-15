@@ -20,6 +20,17 @@ This project is an AI-driven web application designed to streamline access to go
 
 ---
 
+## Live Demo
+
+Check out the live deployed version of Landing page:
+
+[Deployed Link](https://darling-creponne.netlify.app/)
+
+Features:
+[Deployed Link](https://neon-sable-a0fbd5.netlify.app/)
+
+
+
 ## Technology Stack
 
 - **Frontend**: Vite + React + TypeScript, Tailwind CSS (for styling)
